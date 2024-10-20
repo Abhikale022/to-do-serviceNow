@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
     <sys_sg_icon_section action="INSERT_OR_UPDATE">
-        <access_control_type>user_roles</access_control_type>
         <active>true</active>
         <applets>668c2acb838112102ff955e0deaad346</applets>
         <card_size/>
