@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="to-do">9a8c66cb838112102ff955e0deaad3f0</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 13:57:14</sys_created_on>
+        <sys_id>ae8c2acb838112102ff955e0deaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="to-do" source="x_snc_to_do">701b664b838112102ff955e0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="to-do">701b664b838112102ff955e0deaad30a</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_ae8c2acb838112102ff955e0deaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 13:57:14</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

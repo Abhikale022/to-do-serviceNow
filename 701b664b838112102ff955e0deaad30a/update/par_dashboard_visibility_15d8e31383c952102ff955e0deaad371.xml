@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="To-do Dashboard">11d8e31383c952102ff955e0deaad359</dashboard>
+        <experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 12:59:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15d8e31383c952102ff955e0deaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="to-do" source="x_snc_to_do">701b664b838112102ff955e0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="to-do">701b664b838112102ff955e0deaad30a</sys_scope>
+        <sys_update_name>par_dashboard_visibility_15d8e31383c952102ff955e0deaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 12:59:08</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

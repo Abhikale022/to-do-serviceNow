@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">5dd8e31383c952102ff955e0deaad36e</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1i9r8bk6u7kdmbd46qv","filterName":"Label","filterComponentType":"singleselect","datasource":{"type":"table","payload":{"table":"sys_user","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"assigned_to","table":"x_snc_to_do_to_do","primaryKey":"sys_id"}}],"defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"1dd8e31383c952102ff955e0deaad36b","isDashboard":true,"id":"targets","value":[{"type":"table","payload":{"field":"assigned_to","table":"x_snc_to_do_to_do","primaryKey":"sys_id"}}],"noDebounce":true,"propLabel":"Data to filter"}</component_props>
+        <h>4</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 13:04:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>742aaf1383c952102ff955e0deaad38c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="to-do" source="x_snc_to_do">701b664b838112102ff955e0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="to-do">701b664b838112102ff955e0deaad30a</sys_scope>
+        <sys_update_name>par_dashboard_widget_742aaf1383c952102ff955e0deaad38c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 13:04:50</sys_updated_on>
+        <visualization/>
+        <w>7</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
